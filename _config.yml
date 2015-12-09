@@ -1,7 +1,7 @@
 name: BayTech News
 favicon: null
-layout_spectrum: 0.6791700003668666
-typography_spectrum: 0.5576916285790503
+layout_spectrum: 0.3731
+typography_spectrum: 0.24964
 cta:
   domain: null
   bucket: null
