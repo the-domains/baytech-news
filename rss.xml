@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[BayTech News]]></title>
         <description><![CDATA[BayTech News]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://grid.baytech.com.au/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 22:42:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Dec 2015 22:45:55 GMT</lastBuildDate>
+        <atom:link href="http://grid.baytech.com.au/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The best way to motivate people | Bay Technologies]]></title>
             <description><![CDATA[<article><h1>The best way to motivate people | Bay Technologies</h1><p>by Jon Bunch Often times in the business world, science takes a back seat to tradition. Management tells the workers what to do, how to do it, what happens if they don't do it and puts a carrot on a stick and sits back and watches the show.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2202d1051dc0a3c0fa7c2acdd1fb3a538a511fa.jpg"></article>]]></description>
             <link>http://www.baytech.com.au/?p=184</link>
             <guid isPermaLink="false">5a6be1dc-cf0e-42de-a6a6-6e32a27e0242</guid>
-            <pubDate>Wed, 09 Dec 2015 22:42:39 GMT</pubDate>
+            <pubDate>Wed, 09 Dec 2015 22:45:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
