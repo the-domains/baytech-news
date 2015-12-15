@@ -17,8 +17,8 @@ keywords:
   - people
   - intrinsically
 description: "by Jon Bunch Often times in the business world, science takes a back seat to tradition. Management tells the workers what to do, how to do it, what happens if they don't do it and puts a carrot on a stick and sits back and watches the show."
-datePublished: '2015-12-15T02:40:09.710Z'
-dateModified: '2015-12-15T02:40:03.351Z'
+datePublished: '2015-12-15T02:41:02.069Z'
+dateModified: '2015-12-15T02:40:57.189Z'
 author:
   - name: Jon Bunch
     url: 'http://www.baytech.com.au/?author=1'
