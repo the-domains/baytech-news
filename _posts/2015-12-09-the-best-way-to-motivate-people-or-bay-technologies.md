@@ -17,8 +17,8 @@ keywords:
   - people
   - intrinsically
 description: "by Jon Bunch Often times in the business world, science takes a back seat to tradition. Management tells the workers what to do, how to do it, what happens if they don't do it and puts a carrot on a stick and sits back and watches the show."
-datePublished: '2015-12-09T22:45:55.264Z'
-dateModified: '2015-12-09T22:45:50.459Z'
+datePublished: '2015-12-15T02:40:09.710Z'
+dateModified: '2015-12-15T02:40:03.351Z'
 author:
   - name: Jon Bunch
     url: 'http://www.baytech.com.au/?author=1'
@@ -38,6 +38,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac36989e-00b9-46ae-b734-cc249e0ccff9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a960e4461d6736c749756112ced2c34b7d6eff3.jpg)
 
 <article style=""><h1>The best way to motivate people | Jon Bunch</h1><p>by Jon Bunch Often times in the business world, science takes a back seat to tradition. Management tells the workers what to do, how to do it, what happens if they don't do it and puts a carrot on a stick and sits back and watches the show.</p></article>
