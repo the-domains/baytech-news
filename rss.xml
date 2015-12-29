@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BayTech News]]></title>
+        <description><![CDATA[BayTech News]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Dec 2015 02:56:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Post - Bay Technologies - A Secure Future - MINCOR - CIRAM]]></title>
+            <description><![CDATA[<article><h1>Post - Bay Technologies - A Secure Future - MINCOR - CIRAM</h1><p>While there have been some successes with shared services solutions (particularly in Canada), attempts to implement such solutions have experienced difficulties in jurisdictions other than Queensland. The Public Services International Research Unit of the University of Greenwich (UK) published a report in 2014 titled "Shared Services - Setting unrealistic expectations" which examined the UK experience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b91d32c01a0059da85cd84cab2acdecc6b339ee2.jpg"></article>]]></description>
+            <link>http://www.baytech.com.au/shared-services</link>
+            <guid isPermaLink="false">a77e6da0-3e31-4a9e-af86-165dccd0cfe3</guid>
+            <pubDate>Tue, 29 Dec 2015 02:56:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
