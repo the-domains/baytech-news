@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.baytech.com.au/the-top'
 title: Post - Bay Technologies - A Secure Future - MINCOR - CIRAM
-datePublished: '2015-12-29T04:17:00.923Z'
-dateModified: '2015-12-29T04:16:37.276Z'
+datePublished: '2015-12-29T04:21:59.734Z'
+dateModified: '2015-12-29T04:21:46.396Z'
 sourcePath: _posts/2015-12-29-post-bay-technologies-a-secure-future-mincor-ciram.md
 published: true
 inFeed: true
