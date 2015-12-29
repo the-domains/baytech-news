@@ -17,8 +17,8 @@ keywords:
   - folklore
   - intrinsically
 description: "There is one small problem. This article was not written for you and in fact, you probably wouldn't have ever dreamed of searching the web for articles on the best ways to motivate people. Your extrinsic style is the best of breed for motivation and productivity."
-datePublished: '2015-12-29T03:40:49.369Z'
-dateModified: '2015-12-29T03:40:45.428Z'
+datePublished: '2015-12-29T03:41:22.195Z'
+dateModified: '2015-12-29T03:41:17.026Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>How to motivate people!</h1><p>There is one small problem. This article was not written for you and in fact, you probably wouldn't have ever dreamed of searching the web for articles on the best ways to motivate people. Your extrinsic style is the best of breed for motivation and productivity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/818d5af6dd82e4ea97908b9e784e7a7e53fa662c.jpg" /></article>
+<article style=""><h1>How to motivate people!</h1><p>by Jon Bunch - Often times in the business world, science takes a back seat to tradition. Management tells the workers what to do, how to do it, what happens if they don't do it and puts a carrot on a stick and sits back and watches the show. If your company is driven by manual labour and you have implemented this, you my friend, are a genius.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/818d5af6dd82e4ea97908b9e784e7a7e53fa662c.jpg" /></article>
