@@ -1,47 +1,43 @@
 ---
+author: []
+related:
+  - score: 0.5085234046
+    description: "When you build your business on a platform you don't control, you're taking on a lot of unnecessary risk and headache."
+    title: 'Digital Sharecropping: The Most Dangerous Threat to Your Content Marketing Strategy - Copyblogger'
+    url: 'http://www.copyblogger.com/digital-sharecropping/'
+    thumbnail_height: 328
+    thumbnail_url: 'http://www.copyblogger.com/images/2012/11/digital-sharecropping.jpg'
+    thumbnail_width: 650
+publisher:
+  url: 'http://www.baytech.com.au'
+  name: Baytech
+  favicon: 'https://www.imxprs.com/images/ui_icons/magic_circle.png'
+  domain: www.baytech.com.au
+keywords:
+  - grid
+  - website
+  - beta
+  - smancy
+  - typography
+  - tech
+  - layout
+  - members
+  - color
+  - really
+description: 'When I brought it up at an internal meeting, not one single person had heard of it. I was a bit surprised by that. I had known about it since 2014, signed up as a founding member and was counting the days until I thought I might get my hands on it.'
+inLanguage: en
+app_links: []
+isBasedOnUrl: 'http://www.baytech.com.au/the-grid'
+title: Post - Bay Technologies - A Secure Future - MINCOR - CIRAM
+datePublished: '2015-12-29T22:42:38.819Z'
+dateModified: '2015-12-29T22:41:39.516Z'
+sourcePath: _posts/2015-12-29-post-bay-technologies-a-secure-future-mincor-ciram.md
+published: true
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'http://www.baytech.com.au/msi-files'
-inLanguage: en
-starred: false
-keywords:
-  - msi
-  - error
-  - log
-  - code
-  - installer
-  - file
-  - msiexec
-  - '1603'
-  - windows
-  - verbose
-description: '  An MSI is a storage file that contains the Windows logic and information required to install an application. I’ll leave it an exercise for the reader as to how the words Windows and logic fit into the same sentence. There is a lot that goes on when Windows is running one of these and it is not uncommon for something to go wrong.​'
-datePublished: '2015-12-29T22:23:10.960Z'
-dateModified: '2015-12-29T22:23:07.951Z'
-author: []
-related:
-  - score: 0.5051532388000001
-    description: 'Who wears a taupe blazer? interesting, wonderful, or disturbing way. A computer is a clock with benefits. They all work the same, doing second-grade math, one step at a time: Tick, take a number and put it in box one. Tick, take another number, put it in box two.'
-    title: "What Is Code? If You Don't Know, You Need to Read This"
-    url: 'http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/'
-    thumbnail_height: 872
-    thumbnail_url: 'http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/promo.jpg'
-    thumbnail_width: 1160
-app_links: []
-title: 'MSI Files: How to troubleshoot?'
-sourcePath: _posts/2015-12-29-post-bay-technologies-a-secure-future-mincor-ciram.md
-published: true
-authors: []
-publisher:
-  name: Baytech
-  domain: www.baytech.com.au
-  url: 'http://www.baytech.com.au'
-  favicon: 'https://www.imxprs.com/images/ui_icons/magic_circle.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a08c5210-19b9-4dc0-8633-168f97bbdcea.png)
-
-<article style=""><h1>MSI Files: How to troubleshoot?</h1><p>  An MSI is a storage file that contains the Windows logic and information required to install an application. I’ll leave it an exercise for the reader as to how the words Windows and logic fit into the same sentence. There is a lot that goes on when Windows is running one of these and it is not uncommon for something to go wrong.​</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/18d7049cb24153c32594da6363f98766a275e2c2.jpg" /></article>
+<article style=""><h1>Post - Bay Technologies - A Secure Future - MINCOR - CIRAM</h1><p>When I brought it up at an internal meeting&amp;comma; not one single person had heard of it&amp;period; I was a bit surprised by that&amp;period; I had known about it since 2014&amp;comma; signed up as a founding member and was counting the days until I thought I might get my hands on it&amp;period;</p><img src="https://lh3.googleusercontent.com/lZMxC4VvIkNg4F6CqUrMdS0FfuxiUrrhuqy99t2k7hNnIXBz9N7s3fgBee7RBSTdbX4fLJsTn73EYel2OA=s1600" /></article>
