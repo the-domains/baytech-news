@@ -4,7 +4,7 @@
         <description><![CDATA[BayTech News]]></description>
         <link>http://grid.baytech.com.au/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 02:47:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2015 02:50:30 GMT</lastBuildDate>
         <atom:link href="http://grid.baytech.com.au/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>http://www.baytech.com.au/shared-services</link>
             <guid isPermaLink="false">1f1a2096-a2f1-4a8a-830a-d89c76e64ca4</guid>
             <pubDate>Tue, 29 Dec 2015 02:47:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The best way to motivate people | Bay Technologies]]></title>
-            <description><![CDATA[<article><h1>The best way to motivate people | Bay Technologies</h1><p>by Jon Bunch Often times in the business world, science takes a back seat to tradition. Management tells the workers what to do, how to do it, what happens if they don't do it and puts a carrot on a stick and sits back and watches the show.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fd81e071c6a4846e7bebaa78c2621b1c044e35d.jpg"></article>]]></description>
-            <link>http://www.baytech.com.au/?p=184</link>
-            <guid isPermaLink="false">5a6be1dc-cf0e-42de-a6a6-6e32a27e0242</guid>
-            <pubDate>Tue, 15 Dec 2015 03:03:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
