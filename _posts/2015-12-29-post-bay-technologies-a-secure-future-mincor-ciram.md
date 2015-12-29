@@ -7,23 +7,23 @@ publisher:
   favicon: 'https://www.imxprs.com/images/ui_icons/magic_circle.png'
   domain: www.baytech.com.au
 keywords:
-  - ciram
-  - mincor
-  - re-tune
-  - technology
-  - temptation
-  - disconnected
-  - lost
-  - forgotten
-  - urgent
-  - sorry
-description: 'After being completely disconnected from any mobile or internet technology during a week at sea, I can safely say the top 5 things that come from this are: ....'
+  - implementation
+  - application
+  - process
+  - understand
+  - testing
+  - users
+  - development
+  - procurement
+  - analysts
+  - intends
+description: 'The following is assuming you already have a basic understanding of the testing processes and activities. Understand the Process Understand the processes at a high level for the industry that would start testing in. For example, if you were to start testing on a procurement application get a certain level of understanding of what is involved in procurement cycle.'
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.baytech.com.au/the-top'
+isBasedOnUrl: 'http://www.baytech.com.au/testing-tips'
 title: Post - Bay Technologies - A Secure Future - MINCOR - CIRAM
-datePublished: '2015-12-29T04:26:40.293Z'
-dateModified: '2015-12-29T04:26:19.750Z'
+datePublished: '2015-12-29T04:26:41.046Z'
+dateModified: '2015-12-29T04:25:39.709Z'
 sourcePath: _posts/2015-12-29-post-bay-technologies-a-secure-future-mincor-ciram.md
 published: true
 inFeed: true
@@ -33,4 +33,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Post - Bay Technologies - A Secure Future - MINCOR - CIRAM</h1><p>After being completely disconnected from any mobile or internet technology during a week at sea&amp;comma; I can safely say the top 5 things that come from this are&amp;colon; &amp;period;&amp;period;&amp;period;&amp;period;</p><img src="https://lh3.googleusercontent.com/_RtQgPDyuCfX5cry7JM86b61uqzQEY3DVVqYExO3rODEgUSJSLu-UrChcVy_Ei8sCsC3vSjAr7An9xi-e-0" /></article>
+<article style=""><h1>Post - Bay Technologies - A Secure Future - MINCOR - CIRAM</h1><p>The following is assuming you already have a basic understanding of the testing processes and activities&amp;period; Understand the Process Understand the processes at a high level for the industry that would start testing in&amp;period; For example&amp;comma; if you were to start testing on a procurement application get a certain level of understanding of what is involved in procurement cycle&amp;period;</p><img src="https://lh3.googleusercontent.com/_RtQgPDyuCfX5cry7JM86b61uqzQEY3DVVqYExO3rODEgUSJSLu-UrChcVy_Ei8sCsC3vSjAr7An9xi-e-0" /></article>
