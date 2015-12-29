@@ -17,8 +17,8 @@ keywords:
   - urgent
   - sorry
 description: 'After being completely disconnected from any mobile or internet technology during a week at sea, I can safely say the top 5 things that come from this are: ....'
-datePublished: '2015-12-29T04:24:20.306Z'
-dateModified: '2015-12-29T04:24:16.042Z'
+datePublished: '2015-12-29T04:25:05.033Z'
+dateModified: '2015-12-29T04:25:01.417Z'
 author: []
 related: []
 app_links: []
