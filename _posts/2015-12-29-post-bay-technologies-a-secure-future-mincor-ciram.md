@@ -2,27 +2,27 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'http://www.baytech.com.au/the-top'
+isBasedOnUrl: 'http://www.baytech.com.au/testing-tips'
 inLanguage: en
 starred: false
 keywords:
-  - ciram
-  - mincor
-  - re-tune
-  - technology
-  - temptation
-  - disconnected
-  - lost
-  - forgotten
-  - urgent
-  - sorry
-description: 'After being completely disconnected from any mobile or internet technology during a week at sea, I can safely say the top 5 things that come from this are: ....'
-datePublished: '2015-12-29T04:29:40.339Z'
-dateModified: '2015-12-29T04:29:36.344Z'
+  - implementation
+  - application
+  - process
+  - understand
+  - testing
+  - users
+  - development
+  - procurement
+  - analysts
+  - intends
+description: 'The following is assuming you already have a basic understanding of the testing processes and activities. Understand the Process Understand the processes at a high level for the industry that would start testing in. For example, if you were to start testing on a procurement application get a certain level of understanding of what is involved in procurement cycle.'
+datePublished: '2015-12-29T04:31:49.981Z'
+dateModified: '2015-12-29T04:31:47.140Z'
 author: []
 related: []
 app_links: []
-title: The Top 5 things about being out of mobile service range for a week
+title: 'Testing tips for dummies!'
 sourcePath: _posts/2015-12-29-post-bay-technologies-a-secure-future-mincor-ciram.md
 published: true
 authors: []
@@ -35,6 +35,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eae399bb-0509-40c3-897f-f6d82d1c6e47.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c50ccd38-c23a-4ef6-bc15-2fbff07c3fef.png)
 
-<article style=""><h1>The Top 5 things about being out of mobile service range for a week</h1><p>After being completely disconnected from any mobile or internet technology during a week at sea, I can safely say the top 5 things that come from this are: ....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/18d7049cb24153c32594da6363f98766a275e2c2.jpg" /></article>
+<article style=""><h1>Testing tips for dummies!  </h1><p>When starting a career in testing, either with or without prior knowledge/experience in development, I think the following become the essential qualities to build a successful career. Creating test plans, managing and implementing test plans, regression testing, load testing will become part of the process.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/18d7049cb24153c32594da6363f98766a275e2c2.jpg" /></article>
