@@ -17,8 +17,8 @@ keywords:
   - corptech
   - standardising
 description: 'While there have been some successes with shared services solutions (particularly in Canada), attempts to implement such solutions have experienced difficulties in jurisdictions other than Queensland. The Public Services International Research Unit of the University of Greenwich (UK) published a report in 2014 titled "Shared Services - Setting unrealistic expectations" which examined the UK experience.'
-datePublished: '2015-12-29T02:52:08.568Z'
-dateModified: '2015-12-29T02:52:04.229Z'
+datePublished: '2015-12-29T02:53:31.607Z'
+dateModified: '2015-12-29T02:53:28.396Z'
 author: []
 related: []
 app_links: []
