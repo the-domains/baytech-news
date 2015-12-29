@@ -2,27 +2,27 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'http://www.baytech.com.au/sharks'
+isBasedOnUrl: 'http://www.baytech.com.au/the-power'
 inLanguage: en
 starred: false
 keywords:
-  - sharks
-  - fishing
-  - boat
-  - fins
-  - behaviour
-  - 5-10
-  - schoolin
-  - ciram
-  - mincor
-  - 6-10
-description: "Certainly this is learned and recent behaviour, because 5-10 years ago, the number of ferocity of these sharks was less evident. At each boat stop and 5 to 10 minutes after each move (of about a nautical mile), the same 'apparent; sharks were back under the mother boat - sometimes a dozen of the biggest bull whalers I have seen - 6-10- feet long."
-datePublished: '2015-12-29T22:17:56.786Z'
-dateModified: '2015-12-29T22:17:15.673Z'
+  - patch
+  - monitor
+  - errors
+  - server
+  - problems
+  - install
+  - sla
+  - system
+  - customers
+  - network
+description: 'It should be no surprise that monitoring your network brings about improvement in availability and quality of your service, but making the monitoring more visible to your team lifts it to another level.'
+datePublished: '2015-12-29T22:19:19.108Z'
+dateModified: '2015-12-29T22:19:15.319Z'
 author: []
 related: []
 app_links: []
-title: ' Sharks – who is the top predator anyway?'
+title: The Power of Monitoring
 sourcePath: _posts/2015-12-29-post-bay-technologies-a-secure-future-mincor-ciram.md
 published: true
 authors: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1> Sharks – who is the top predator anyway?</h1><p>Jimmy Buffet wrote in his famous song, Fins, which describe a young beauty on holiday in the Caribbean … Can't you feel 'em circlin', honey ? Can't you feel 'em schoolin' around ? You got fins to the left, fins to the right,  And you're the only bait in town.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b611173cc4613010bd140bbef8f30510a924c30.jpg" /></article>
+<article style=""><h1>The Power of Monitoring</h1><p>It should be no surprise that monitoring your network brings about improvement in availability and quality of your service, but making the monitoring more visible to your team lifts it to another level.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4613a4662f07bb7128f2b7589615e8eacd60799.jpg" /></article>
