@@ -1,38 +1,36 @@
 ---
+author: []
+related: []
+publisher:
+  url: 'http://www.baytech.com.au'
+  name: Baytech
+  favicon: 'https://www.imxprs.com/images/ui_icons/magic_circle.png'
+  domain: www.baytech.com.au
+keywords:
+  - ciram
+  - mincor
+  - re-tune
+  - technology
+  - temptation
+  - disconnected
+  - lost
+  - forgotten
+  - urgent
+  - sorry
+description: 'After being completely disconnected from any mobile or internet technology during a week at sea, I can safely say the top 5 things that come from this are: ....'
+inLanguage: en
+app_links: []
+isBasedOnUrl: 'http://www.baytech.com.au/the-top'
+title: Post - Bay Technologies - A Secure Future - MINCOR - CIRAM
+datePublished: '2015-12-29T04:17:00.923Z'
+dateModified: '2015-12-29T04:16:37.276Z'
+sourcePath: _posts/2015-12-29-post-bay-technologies-a-secure-future-mincor-ciram.md
+published: true
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'http://www.baytech.com.au/testing-tips'
-inLanguage: en
-starred: false
-keywords:
-  - implementation
-  - application
-  - process
-  - understand
-  - testing
-  - users
-  - development
-  - procurement
-  - analysts
-  - intends
-description: 'The following is assuming you already have a basic understanding of the testing processes and activities. Understand the Process Understand the processes at a high level for the industry that would start testing in. For example, if you were to start testing on a procurement application get a certain level of understanding of what is involved in procurement cycle.'
-datePublished: '2015-12-29T04:12:14.978Z'
-dateModified: '2015-12-29T04:12:10.856Z'
-author: []
-related: []
-app_links: []
-title: 'Testing tips for dummies!'
-sourcePath: _posts/2015-12-29-post-bay-technologies-a-secure-future-mincor-ciram.md
-published: true
-authors: []
-publisher:
-  name: Baytech
-  domain: www.baytech.com.au
-  url: 'http://www.baytech.com.au'
-  favicon: 'https://www.imxprs.com/images/ui_icons/magic_circle.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Testing tips for dummies!</h1><p>When starting a career in testing, either with or without prior knowledge/experience in development, I think the following become the essential qualities to build a successful career. Creating test plans, managing and implementing test plans, regression testing, load testing will become part of the process.</p><img src="https://lh3.googleusercontent.com/_RtQgPDyuCfX5cry7JM86b61uqzQEY3DVVqYExO3rODEgUSJSLu-UrChcVy_Ei8sCsC3vSjAr7An9xi-e-0" /></article>
+<article style=""><h1>Post - Bay Technologies - A Secure Future - MINCOR - CIRAM</h1><p>After being completely disconnected from any mobile or internet technology during a week at sea&amp;comma; I can safely say the top 5 things that come from this are&amp;colon; &amp;period;&amp;period;&amp;period;&amp;period;</p><img src="https://lh3.googleusercontent.com/_RtQgPDyuCfX5cry7JM86b61uqzQEY3DVVqYExO3rODEgUSJSLu-UrChcVy_Ei8sCsC3vSjAr7An9xi-e-0" /></article>
