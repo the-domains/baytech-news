@@ -17,8 +17,8 @@ keywords:
   - folklore
   - intrinsically
 description: "There is one small problem. This article was not written for you and in fact, you probably wouldn't have ever dreamed of searching the web for articles on the best ways to motivate people. Your extrinsic style is the best of breed for motivation and productivity."
-datePublished: '2015-12-29T03:41:22.195Z'
-dateModified: '2015-12-29T03:41:17.026Z'
+datePublished: '2015-12-29T03:42:18.817Z'
+dateModified: '2015-12-29T03:42:15.351Z'
 author: []
 related: []
 app_links: []
