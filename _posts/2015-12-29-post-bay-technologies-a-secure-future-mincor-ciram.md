@@ -1,38 +1,43 @@
 ---
+author: []
+related:
+  - score: 0.5085234046
+    description: "When you build your business on a platform you don't control, you're taking on a lot of unnecessary risk and headache."
+    title: 'Digital Sharecropping: The Most Dangerous Threat to Your Content Marketing Strategy - Copyblogger'
+    url: 'http://www.copyblogger.com/digital-sharecropping/'
+    thumbnail_height: 328
+    thumbnail_url: 'http://www.copyblogger.com/images/2012/11/digital-sharecropping.jpg'
+    thumbnail_width: 650
+publisher:
+  url: 'http://www.baytech.com.au'
+  name: Baytech
+  favicon: 'https://www.imxprs.com/images/ui_icons/magic_circle.png'
+  domain: www.baytech.com.au
+keywords:
+  - grid
+  - website
+  - beta
+  - smancy
+  - typography
+  - tech
+  - layout
+  - members
+  - color
+  - really
+description: 'When I brought it up at an internal meeting, not one single person had heard of it. I was a bit surprised by that. I had known about it since 2014, signed up as a founding member and was counting the days until I thought I might get my hands on it.'
+inLanguage: en
+app_links: []
+isBasedOnUrl: 'http://www.baytech.com.au/the-grid'
+title: Post - Bay Technologies - A Secure Future - MINCOR - CIRAM
+datePublished: '2015-12-29T22:48:15.566Z'
+dateModified: '2015-12-29T22:47:09.799Z'
+sourcePath: _posts/2015-12-29-post-bay-technologies-a-secure-future-mincor-ciram.md
+published: true
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'http://www.baytech.com.au/bush-running'
-inLanguage: en
-starred: false
-keywords:
-  - bitumen
-  - trail
-  - run
-  - tracks
-  - road
-  - bellbird
-  - little
-  - brookfield
-  - bike
-  - grove
-description: Discovering new places should always be fun as should adding new courses to your running routes. I love to run and regularly go for a gentle 10 – 15 k run on Sunday mornings with a mate. I say gentle as the goal is to cruise along a course having a chat and stopping once or twice for a stretch and some water. The 6 am Sunday morning run is not race time or excess endurance running.
-datePublished: '2015-12-29T22:44:06.764Z'
-dateModified: '2015-12-29T22:43:59.958Z'
-author: []
-related: []
-app_links: []
-title: Bush Running – Planning the event
-sourcePath: _posts/2015-12-29-post-bay-technologies-a-secure-future-mincor-ciram.md
-published: true
-authors: []
-publisher:
-  name: Baytech
-  domain: www.baytech.com.au
-  url: 'http://www.baytech.com.au'
-  favicon: 'https://www.imxprs.com/images/ui_icons/magic_circle.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Bush Running – Planning the event</h1><p>Discovering new places should always be fun as should adding new courses to your running routes. I love to run and regularly go for a gentle 10 – 15 k run on Sunday mornings with a mate. I say gentle as the goal is to cruise along a course having a chat and stopping once or twice for a stretch and some water. The 6 am Sunday morning run is not race time or excess endurance running.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a53222e6045f7751808c3deeaccf3cff66a070fb.jpg" /></article>
+<article style=""><h1>Post - Bay Technologies - A Secure Future - MINCOR - CIRAM</h1><p>When I brought it up at an internal meeting&amp;comma; not one single person had heard of it&amp;period; I was a bit surprised by that&amp;period; I had known about it since 2014&amp;comma; signed up as a founding member and was counting the days until I thought I might get my hands on it&amp;period;</p><img src="https://lh3.googleusercontent.com/lZMxC4VvIkNg4F6CqUrMdS0FfuxiUrrhuqy99t2k7hNnIXBz9N7s3fgBee7RBSTdbX4fLJsTn73EYel2OA=s1600" /></article>
