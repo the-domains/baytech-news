@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.baytech.com.au'
-  name: Baytech
-  favicon: 'https://www.imxprs.com/images/ui_icons/magic_circle.png'
-  domain: www.baytech.com.au
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.baytech.com.au/shared-services'
+inLanguage: en
+starred: false
 keywords:
   - queensland
   - service
@@ -18,17 +17,20 @@ keywords:
   - corptech
   - standardising
 description: 'While there have been some successes with shared services solutions (particularly in Canada), attempts to implement such solutions have experienced difficulties in jurisdictions other than Queensland. The Public Services International Research Unit of the University of Greenwich (UK) published a report in 2014 titled "Shared Services - Setting unrealistic expectations" which examined the UK experience.'
-inLanguage: en
+datePublished: '2015-12-29T02:56:51.500Z'
+dateModified: '2015-12-29T02:56:43.601Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.baytech.com.au/shared-services'
-title: Post - Bay Technologies - A Secure Future - MINCOR - CIRAM
-datePublished: '2015-12-29T02:56:01.693Z'
-dateModified: '2015-12-29T02:50:57.894Z'
+title: 'Shared Government Services '
 sourcePath: _posts/2015-12-29-post-bay-technologies-a-secure-future-mincor-ciram.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Baytech
+  domain: www.baytech.com.au
+  url: 'http://www.baytech.com.au'
+  favicon: 'https://www.imxprs.com/images/ui_icons/magic_circle.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
