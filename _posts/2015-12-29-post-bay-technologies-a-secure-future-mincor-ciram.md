@@ -2,27 +2,34 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'http://www.baytech.com.au/the-power'
+isBasedOnUrl: 'http://www.baytech.com.au/msi-files'
 inLanguage: en
 starred: false
 keywords:
-  - patch
-  - monitor
-  - errors
-  - server
-  - problems
-  - install
-  - sla
-  - system
-  - customers
-  - network
-description: 'It should be no surprise that monitoring your network brings about improvement in availability and quality of your service, but making the monitoring more visible to your team lifts it to another level.'
-datePublished: '2015-12-29T22:19:19.108Z'
-dateModified: '2015-12-29T22:19:15.319Z'
+  - msi
+  - error
+  - log
+  - code
+  - installer
+  - file
+  - msiexec
+  - '1603'
+  - windows
+  - verbose
+description: 'If an install does fail, it can produce an excessive amount of information that can make troubleshooting more difficult than taking a photo of Pluto. Here is a good way to get started with said troubleshooting. Have you tried turning it off and on again?'
+datePublished: '2015-12-29T22:22:06.616Z'
+dateModified: '2015-12-29T22:20:29.419Z'
 author: []
-related: []
+related:
+  - score: 0.5051532388000001
+    description: 'Who wears a taupe blazer? interesting, wonderful, or disturbing way. A computer is a clock with benefits. They all work the same, doing second-grade math, one step at a time: Tick, take a number and put it in box one. Tick, take another number, put it in box two.'
+    title: "What Is Code? If You Don't Know, You Need to Read This"
+    url: 'http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/'
+    thumbnail_height: 872
+    thumbnail_url: 'http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/promo.jpg'
+    thumbnail_width: 1160
 app_links: []
-title: The Power of Monitoring
+title: Post - Bay Technologies - A Secure Future - MINCOR - CIRAM
 sourcePath: _posts/2015-12-29-post-bay-technologies-a-secure-future-mincor-ciram.md
 published: true
 authors: []
@@ -35,4 +42,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Power of Monitoring</h1><p>It should be no surprise that monitoring your network brings about improvement in availability and quality of your service, but making the monitoring more visible to your team lifts it to another level.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4613a4662f07bb7128f2b7589615e8eacd60799.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a08c5210-19b9-4dc0-8633-168f97bbdcea.png)
+
+<article style=""><h1>Post - Bay Technologies - A Secure Future - MINCOR - CIRAM</h1><p>If an install does fail&amp;comma; it can produce an excessive amount of information that can make troubleshooting more difficult than taking a photo of Pluto&amp;period; Here is a good way to get started with said troubleshooting&amp;period; Have you tried turning it off and on again&amp;quest;</p><img src="https://lh3.googleusercontent.com/_RtQgPDyuCfX5cry7JM86b61uqzQEY3DVVqYExO3rODEgUSJSLu-UrChcVy_Ei8sCsC3vSjAr7An9xi-e-0" /></article>
