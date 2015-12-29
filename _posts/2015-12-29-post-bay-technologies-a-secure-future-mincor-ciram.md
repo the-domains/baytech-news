@@ -17,8 +17,8 @@ keywords:
   - mincor
   - 6-10
 description: "Certainly this is learned and recent behaviour, because 5-10 years ago, the number of ferocity of these sharks was less evident. At each boat stop and 5 to 10 minutes after each move (of about a nautical mile), the same 'apparent; sharks were back under the mother boat - sometimes a dozen of the biggest bull whalers I have seen - 6-10- feet long."
-datePublished: '2015-12-29T03:45:26.505Z'
-dateModified: '2015-12-29T03:45:20.474Z'
+datePublished: '2015-12-29T03:47:08.577Z'
+dateModified: '2015-12-29T03:47:05.435Z'
 author: []
 related: []
 app_links: []
