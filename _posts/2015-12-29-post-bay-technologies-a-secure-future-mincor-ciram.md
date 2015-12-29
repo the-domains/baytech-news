@@ -17,8 +17,8 @@ keywords:
   - urgent
   - sorry
 description: 'After being completely disconnected from any mobile or internet technology during a week at sea, I can safely say the top 5 things that come from this are: ....'
-datePublished: '2015-12-29T04:29:04.581Z'
-dateModified: '2015-12-29T04:28:55.904Z'
+datePublished: '2015-12-29T04:29:40.339Z'
+dateModified: '2015-12-29T04:29:36.344Z'
 author: []
 related: []
 app_links: []
@@ -35,6 +35,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Top 5 things about being out of mobile service range for a week</h1><p>After being completely disconnected from any mobile or internet technology during a week at sea, I can safely say the top 5 things that come from this are: ....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/18d7049cb24153c32594da6363f98766a275e2c2.jpg" /></article>
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eae399bb-0509-40c3-897f-f6d82d1c6e47.png)
+
+<article style=""><h1>The Top 5 things about being out of mobile service range for a week</h1><p>After being completely disconnected from any mobile or internet technology during a week at sea, I can safely say the top 5 things that come from this are: ....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/18d7049cb24153c32594da6363f98766a275e2c2.jpg" /></article>
