@@ -1,6 +1,6 @@
 name: BayTech News
 favicon: null
-layout_spectrum: 0.30875
+layout_spectrum: 0.14618
 typography_spectrum: 0.60527
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#337ca9'
-    - '#57a2cc'
-    - '#b5daf5'
-    - '#e5ffff'
-    - '#cfe9ef'
+    - '#1a498d'
+    - '#0a194f'
+    - '#2186c3'
+    - '#bcf2ff'
+    - '#8ac7dd'
   brandStrength: 0
   lightness: 0.27264733146876097
   saturation: 0.5
