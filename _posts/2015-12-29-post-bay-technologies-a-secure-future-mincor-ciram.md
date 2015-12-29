@@ -7,23 +7,23 @@ publisher:
   favicon: 'https://www.imxprs.com/images/ui_icons/magic_circle.png'
   domain: www.baytech.com.au
 keywords:
-  - bitumen
-  - trail
-  - run
-  - tracks
-  - road
-  - bellbird
-  - little
-  - brookfield
-  - bike
-  - grove
-description: We decided to change from track to trail running to add some variety and took to trails around Mt Coo-tha for our first foray. I have ridden these tracks many times on the mountain bike but being on foot required taking some alternate paths where pedestrians are allowed to wander.
+  - childcare
+  - playgroups
+  - parent
+  - baby
+  - going
+  - happier
+  - decision
+  - work
+  - much
+  - miss
+description: 'Whenever I talked to someone about returning to work, they just looked at me like "Oh no... Poor baby has to go to childcare"... Not really what you want to hear! But I knew it was the best decision not only for me and my husband but also for our baby.'
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.baytech.com.au/bush-running'
+isBasedOnUrl: 'http://www.baytech.com.au/work-after'
 title: Post - Bay Technologies - A Secure Future - MINCOR - CIRAM
-datePublished: '2015-12-29T22:42:38.826Z'
-dateModified: '2015-12-29T22:41:50.830Z'
+datePublished: '2015-12-29T22:42:38.853Z'
+dateModified: '2015-12-29T22:41:20.163Z'
 sourcePath: _posts/2015-12-29-post-bay-technologies-a-secure-future-mincor-ciram.md
 published: true
 inFeed: true
@@ -33,4 +33,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Post - Bay Technologies - A Secure Future - MINCOR - CIRAM</h1><p>We decided to change from track to trail running to add some variety and took to trails around Mt Coo-tha for our first foray&amp;period; I have ridden these tracks many times on the mountain bike but being on foot required taking some alternate paths where pedestrians are allowed to wander&amp;period;</p><img src="https://lh3.googleusercontent.com/sJsdezxe2ZCP3fT_mwKGyqch7YLNCzDKM-Y5B2cXAhS6-25OV9Q2Fj3HX0EbLgKblcTht7rMV0QaoHbdVHE=s1600" /></article>
+<article style=""><h1>Post - Bay Technologies - A Secure Future - MINCOR - CIRAM</h1><p>Whenever I talked to someone about returning to work&amp;comma; they just looked at me like "Oh no&amp;period;&amp;period;&amp;period; Poor baby has to go to childcare"&amp;period;&amp;period;&amp;period; Not really what you want to hear&amp;excl; But I knew it was the best decision not only for me and my husband but also for our baby&amp;period;</p><img src="https://lh3.googleusercontent.com/kQ2xrQPxANeA-dCmpXWrr0IQtexac9m_VLZgCxZoDEL7FtebfvblrvzTU-JhzRPp80iCmOm4EFfzuOLbMw=s1600" /></article>
