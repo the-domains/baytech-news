@@ -17,8 +17,8 @@ keywords:
   - analysts
   - intends
 description: 'The following is assuming you already have a basic understanding of the testing processes and activities. Understand the Process Understand the processes at a high level for the industry that would start testing in. For example, if you were to start testing on a procurement application get a certain level of understanding of what is involved in procurement cycle.'
-datePublished: '2015-12-29T03:57:39.283Z'
-dateModified: '2015-12-29T03:57:34.378Z'
+datePublished: '2015-12-29T03:59:22.823Z'
+dateModified: '2015-12-29T03:59:20.479Z'
 author: []
 related: []
 app_links: []
