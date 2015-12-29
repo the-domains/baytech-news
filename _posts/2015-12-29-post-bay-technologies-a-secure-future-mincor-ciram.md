@@ -1,38 +1,36 @@
 ---
+author: []
+related: []
+publisher:
+  url: 'http://www.baytech.com.au'
+  name: Baytech
+  favicon: 'https://www.imxprs.com/images/ui_icons/magic_circle.png'
+  domain: www.baytech.com.au
+keywords:
+  - sharks
+  - fishing
+  - boat
+  - fins
+  - behaviour
+  - 5-10
+  - schoolin
+  - ciram
+  - mincor
+  - 6-10
+description: "Certainly this is learned and recent behaviour, because 5-10 years ago, the number of ferocity of these sharks was less evident. At each boat stop and 5 to 10 minutes after each move (of about a nautical mile), the same 'apparent; sharks were back under the mother boat - sometimes a dozen of the biggest bull whalers I have seen - 6-10- feet long."
+inLanguage: en
+app_links: []
+isBasedOnUrl: 'http://www.baytech.com.au/sharks'
+title: Post - Bay Technologies - A Secure Future - MINCOR - CIRAM
+datePublished: '2015-12-29T03:44:08.073Z'
+dateModified: '2015-12-29T03:42:35.593Z'
+sourcePath: _posts/2015-12-29-post-bay-technologies-a-secure-future-mincor-ciram.md
+published: true
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'http://www.baytech.com.au/the-best'
-inLanguage: en
-starred: false
-keywords:
-  - motivating
-  - autonomy
-  - self-direction
-  - encarta
-  - goes
-  - work
-  - rewards
-  - people
-  - folklore
-  - intrinsically
-description: "There is one small problem. This article was not written for you and in fact, you probably wouldn't have ever dreamed of searching the web for articles on the best ways to motivate people. Your extrinsic style is the best of breed for motivation and productivity."
-datePublished: '2015-12-29T03:43:16.103Z'
-dateModified: '2015-12-29T03:43:12.030Z'
-author: []
-related: []
-app_links: []
-title: 'How to motivate people!'
-sourcePath: _posts/2015-12-29-post-bay-technologies-a-secure-future-mincor-ciram.md
-published: true
-authors: []
-publisher:
-  name: Baytech
-  domain: www.baytech.com.au
-  url: 'http://www.baytech.com.au'
-  favicon: 'https://www.imxprs.com/images/ui_icons/magic_circle.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>How to motivate people!</h1><p>by Jon Bunch - Often times in the business world, science takes a back seat to tradition. Management tells the workers what to do, how to do it, what happens if they don't do it and puts a carrot on a stick and sits back and watches the show. If your company is driven by manual labour and you have implemented this, you my friend, are a genius.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/818d5af6dd82e4ea97908b9e784e7a7e53fa662c.jpg" /></article>
+<article style=""><h1>Post - Bay Technologies - A Secure Future - MINCOR - CIRAM</h1><p>Certainly this is learned and recent behaviour&amp;comma; because 5-10 years ago&amp;comma; the number of ferocity of these sharks was less evident&amp;period; At each boat stop and 5 to 10 minutes after each move &amp;lpar;of about a nautical mile&amp;rpar;&amp;comma; the same 'apparent&amp;semi; sharks were back under the mother boat - sometimes a dozen of the biggest bull whalers I have seen - 6-10- feet long&amp;period;</p><img src="https://lh3.googleusercontent.com/zoW5m8nMZF-g-VrJfeYTFepm6hPWHKCyONSoMf7Ve9cwccJh7IV_SKVy9vROzyYt811tOf2VNrLGLNIdBQ=s1600" /></article>
