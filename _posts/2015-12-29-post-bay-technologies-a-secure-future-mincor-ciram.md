@@ -2,27 +2,27 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'http://www.baytech.com.au/testing-tips'
+isBasedOnUrl: 'http://www.baytech.com.au/the-top'
 inLanguage: en
 starred: false
 keywords:
-  - implementation
-  - application
-  - process
-  - understand
-  - testing
-  - users
-  - development
-  - procurement
-  - analysts
-  - intends
-description: 'The following is assuming you already have a basic understanding of the testing processes and activities. Understand the Process Understand the processes at a high level for the industry that would start testing in. For example, if you were to start testing on a procurement application get a certain level of understanding of what is involved in procurement cycle.'
-datePublished: '2015-12-29T04:32:50.371Z'
-dateModified: '2015-12-29T04:32:47.490Z'
+  - ciram
+  - mincor
+  - re-tune
+  - technology
+  - temptation
+  - disconnected
+  - lost
+  - forgotten
+  - urgent
+  - sorry
+description: 'After being completely disconnected from any mobile or internet technology during a week at sea, I can safely say the top 5 things that come from this are: ....'
+datePublished: '2015-12-29T04:33:33.849Z'
+dateModified: '2015-12-29T04:33:31.493Z'
 author: []
 related: []
 app_links: []
-title: 'Testing tips for dummies!'
+title: The Top 5 things about being out of mobile service range for a week
 sourcePath: _posts/2015-12-29-post-bay-technologies-a-secure-future-mincor-ciram.md
 published: true
 authors: []
@@ -35,6 +35,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c50ccd38-c23a-4ef6-bc15-2fbff07c3fef.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b15520e43c70131256f6d719be773bed32ffbfe.png)
 
-<article style=""><h1>Testing tips for dummies!  </h1><p>When starting a career in testing, either with or without prior knowledge/experience in development, I think the following become the essential qualities to build a successful career. Creating test plans, managing and implementing test plans, regression testing, load testing will become part of the process.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/18d7049cb24153c32594da6363f98766a275e2c2.jpg" /></article>
+<article style=""><h1>The Top 5 things about being out of mobile service range for a week</h1><p>After being completely disconnected from any mobile or internet technology during a week at sea, I can safely say the top 5 things that come from this are: ....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90a1e463d068b97bcbc16ee3ff9106180ebd7d75.jpg" /></article>
