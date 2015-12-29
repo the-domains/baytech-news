@@ -17,8 +17,8 @@ keywords:
   - milestones
   - thinking
 description: "Into the unknown - be flexible and pragmatic . I haven't seen a project yet that started with a 100% picture and specification of EXACTLY what was required and exactly how the project will run. In some ways this is the reason knowing your why is so important."
-datePublished: '2015-12-29T03:29:12.387Z'
-dateModified: '2015-12-29T03:29:07.390Z'
+datePublished: '2015-12-29T03:36:16.342Z'
+dateModified: '2015-12-29T03:36:12.950Z'
 author: []
 related: []
 app_links: []
