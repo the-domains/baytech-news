@@ -1,36 +1,38 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.baytech.com.au'
-  name: Baytech
-  favicon: 'https://www.imxprs.com/images/ui_icons/magic_circle.png'
-  domain: www.baytech.com.au
-keywords:
-  - patch
-  - monitor
-  - errors
-  - server
-  - problems
-  - install
-  - sla
-  - system
-  - customers
-  - network
-description: 'At Bay we manage a number of customer networks, as well as supporting others that are internally hosted where we cannot see the status of the servers and the applications.'
-inLanguage: en
-app_links: []
-isBasedOnUrl: 'http://www.baytech.com.au/the-power'
-title: Post - Bay Technologies - A Secure Future - MINCOR - CIRAM
-datePublished: '2015-12-29T22:17:46.456Z'
-dateModified: '2015-12-29T22:14:37.305Z'
-sourcePath: _posts/2015-12-29-post-bay-technologies-a-secure-future-mincor-ciram.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'http://www.baytech.com.au/sharks'
+inLanguage: en
+starred: false
+keywords:
+  - sharks
+  - fishing
+  - boat
+  - fins
+  - behaviour
+  - 5-10
+  - schoolin
+  - ciram
+  - mincor
+  - 6-10
+description: "Certainly this is learned and recent behaviour, because 5-10 years ago, the number of ferocity of these sharks was less evident. At each boat stop and 5 to 10 minutes after each move (of about a nautical mile), the same 'apparent; sharks were back under the mother boat - sometimes a dozen of the biggest bull whalers I have seen - 6-10- feet long."
+datePublished: '2015-12-29T22:17:56.786Z'
+dateModified: '2015-12-29T22:17:15.673Z'
+author: []
+related: []
+app_links: []
+title: ' Sharks – who is the top predator anyway?'
+sourcePath: _posts/2015-12-29-post-bay-technologies-a-secure-future-mincor-ciram.md
+published: true
+authors: []
+publisher:
+  name: Baytech
+  domain: www.baytech.com.au
+  url: 'http://www.baytech.com.au'
+  favicon: 'https://www.imxprs.com/images/ui_icons/magic_circle.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Post - Bay Technologies - A Secure Future - MINCOR - CIRAM</h1><p>At Bay we manage a number of customer networks&amp;comma; as well as supporting others that are internally hosted where we cannot see the status of the servers and the applications&amp;period;</p><img src="https://lh3.googleusercontent.com/z3ZeqFQ-oxLb8kw6ACNaf-oX7She8--wsYuCbXLRcoHjipgst6plJN0dfHf2AsZIhWZHZz_OoB05cymMRw=s1600" /></article>
+<article style=""><h1> Sharks – who is the top predator anyway?</h1><p>Jimmy Buffet wrote in his famous song, Fins, which describe a young beauty on holiday in the Caribbean … Can't you feel 'em circlin', honey ? Can't you feel 'em schoolin' around ? You got fins to the left, fins to the right,  And you're the only bait in town.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b611173cc4613010bd140bbef8f30510a924c30.jpg" /></article>
